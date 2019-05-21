@@ -10,7 +10,7 @@ import pandas as pd
 
 # Importing the dataset
 
-dataset = pd.read_csv(r"C:\Users\Goki\Desktop\Deep Learning\Deep_Learning_A_Z\Volume 1 - Supervised Deep Learning\Part 1 - Artificial Neural Networks (ANN)\Section 4 - Building an ANN\Churn_Modelling.csv")
+dataset = pd.read_csv(r"path\Churn_Modelling.csv")
 X = dataset.iloc[:,3:13 ].values
 y = dataset.iloc[:, 13].values
 
