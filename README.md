@@ -1,4 +1,4 @@
-# basic-neural-network-project
+# banking -- customer relations
 This is a project demonstrating an Artificial Neural Network which can be trained on bank information data
 and predict whether a new customer will stay with the bank or not.
 
